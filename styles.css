@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+}
+body{
+    display: flex;
+    justify-content: center;   
+}
+
+main{
+    background-color: white;
+    margin: 4;
+    width: 600px;
+    height: 800px;
+}
+.classiconosencabezado{
+    display: flex;
+
+}
+
+.classellipsis {
+    display: grid;
+    margin-right: 60%;
+
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    margin: none;
+}
+.classiconosimagen{
+    display: flex;
+}
+.bookmark{
+ display: flex;
+
+}
