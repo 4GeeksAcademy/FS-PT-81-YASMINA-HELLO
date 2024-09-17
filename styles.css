@@ -12,14 +12,14 @@ main{
     width: 600px;
     height: 800px;
 }
-.classiconosencabezado{
+.iconosencabezado{
     display: flex;
 
 }
 
-.classellipsis {
-    display: grid;
-    margin-right: 60%;
+.ellipsis {
+    display: flex;
+    justify-content: flex-end;
 
 }
 
@@ -31,7 +31,7 @@ img {
 .classiconosimagen{
     display: flex;
 }
-.bookmark{
- display: flex;
+.iconobookmark{
+align-items: flex-end;
 
 }
