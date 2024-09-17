@@ -16,22 +16,30 @@ main{
     display: flex;
 
 }
+.iconohtml5{
+    justify-content: left;
+    margin: 1rem;
 
-.ellipsis {
+}
+.textosarriba{
     display: flex;
-    justify-content: flex-end;
+    flex-direction: column;
+}
 
+.iconoellipsis {
+margin-left: auto;
+align-content: end;
 }
 
 img {
     height: 400px;
     width: 600px;
-    margin: none;
+    margin: 1rem 0rem 0rem 0rem;
 }
-.classiconosimagen{
+.iconosimagen{
     display: flex;
+    justify-content: space-between;
 }
 .iconobookmark{
-align-items: flex-end;
-
+margin-left: auto;
 }
